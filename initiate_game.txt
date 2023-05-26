@@ -1,0 +1,9 @@
+initiate_game
+
+call API -> {game_id, player_ids/team/, which player_ids are bots}
+call API -> {bot_id :inital hands}
+
+
+moves
+call API - > {ACTION, BY, TO, SET, CARD, RESULT}
+
