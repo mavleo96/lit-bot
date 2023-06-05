@@ -163,3 +163,5 @@ __pycache__/
 gameData.json
 initial_game_state_array.json
 gameActionData.json
+
+.vscode/
