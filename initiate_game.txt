@@ -1,3 +1,19 @@
+New Implementation logic
+
+truth_matrix = T (2x3x8x6)
+T (i,j,k,l) : {0, 1, func}
+func = lambda i,j,k,l, inference_list : if inference == False: 1/count([i for i in array if hasattr(i, "__call__")]) else 
+
+
+
+
+
+
+
+
+
+
+
 initiate_game
 
 call API -> {game_id, player_ids/team/, which player_ids are bots}
