@@ -1,0 +1,40 @@
+{
+    "set_id" : {
+        "0" : "lower_hearts",
+        "1" : "lower_diamonds",
+        "2" : "lower_spades",
+        "3" : "lower_clubs",
+        "4" : "upper_hearts",
+        "5" : "upper_diamonds",
+        "6" : "upper_spades",
+        "7" : "upper_clubs"
+    },
+    "set_id_type" : {
+        "0" : "lower",
+        "1" : "lower",
+        "2" : "lower",
+        "3" : "lower",
+        "4" : "upper",
+        "5" : "upper",
+        "6" : "upper",
+        "7" : "upper"
+    },
+    "card_id" : {
+        "lower" : {
+            "0" : "ace",
+            "1" : "two",
+            "2" : "three",
+            "3" : "four",
+            "4" : "five",
+            "5" : "six"
+        },
+        "upper" : {
+            "0" : "eight",
+            "1" : "nine",
+            "2" : "ten",
+            "3" : "jack",
+            "4" : "queen",
+            "5" : "king"
+        }
+    }
+}
